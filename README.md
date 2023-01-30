@@ -16,3 +16,5 @@ Used Modules to make the project --
 Module 1 - React Basics and Working with Components
 
 Module 2 - React State and Working with Events
+
+Module 3 - Rendering Lists & Conditional Content

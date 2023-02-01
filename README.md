@@ -12,7 +12,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
-Used Modules to make the project --
+## Used Modules to make the project --
 
 Module 1 - React Basics and Working with Components
 
